@@ -1,0 +1,72 @@
+
+@font-face { font-family: "Inter"; src: url("/fonts/inter/Inter-ExtraLight.woff2"); font-weight: 200; }
+@font-face { font-family: "Inter"; src: url("/fonts/inter/Inter-Light.woff2"); font-weight: 300; }
+@font-face { font-family: "Inter"; src: url("/fonts/inter/Inter-Regular.woff2"); font-weight: 400; }
+@font-face { font-family: "Inter"; src: url("/fonts/inter/Inter-Medium.woff2"); font-weight: 500; }
+@font-face { font-family: "Inter"; src: url("/fonts/inter/Inter-SemiBold.woff2"); font-weight: 600; }
+@font-face { font-family: "Inter"; src: url("/fonts/inter/Inter-Bold.woff2"); font-weight: 700; }
+@font-face { font-family: "Inter"; src: url("/fonts/inter/Inter-Black.woff2"); font-weight: 900; }
+
+@font-face { font-family: "Gilroy"; src: url("/fonts/gilroy/Gilroy-UltraLight.woff2"); font-weight: 200; }
+@font-face { font-family: "Gilroy"; src: url("/fonts/gilroy/Gilroy-Light.woff2"); font-weight: 300; }
+@font-face { font-family: "Gilroy"; src: url("/fonts/gilroy/Gilroy-Regular.woff2"); font-weight: 400; }
+@font-face { font-family: "Gilroy"; src: url("/fonts/gilroy/Gilroy-Medium.woff2"); font-weight: 500; }
+@font-face { font-family: "Gilroy"; src: url("/fonts/gilroy/Gilroy-SemiBold.woff2"); font-weight: 600; }
+@font-face { font-family: "Gilroy"; src: url("/fonts/gilroy/Gilroy-Bold.woff2"); font-weight: 700; }
+@font-face { font-family: "Gilroy"; src: url("/fonts/gilroy/Gilroy-Black.woff2"); font-weight: 900; }
+
+@font-face { font-family: "IBM Plex Mono"; src: url("/fonts/ibm-plex-mono/IBMPlexMono-ExtraLight.woff2"); font-weight: 200; }
+@font-face { font-family: "IBM Plex Mono"; src: url("/fonts/ibm-plex-mono/IBMPlexMono-Light.woff2"); font-weight: 300; }
+@font-face { font-family: "IBM Plex Mono"; src: url("/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2"); font-weight: 400; }
+@font-face { font-family: "IBM Plex Mono"; src: url("/fonts/ibm-plex-mono/IBMPlexMono-Medium.woff2"); font-weight: 500; }
+@font-face { font-family: "IBM Plex Mono"; src: url("/fonts/ibm-plex-mono/IBMPlexMono-SemiBold.woff2"); font-weight: 600; }
+@font-face { font-family: "IBM Plex Mono"; src: url("/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2"); font-weight: 700; }
+/* --font-size-xs: 0.75rem;
+--font-size-s: 0.8rem;
+--font-size-m: 0.85rem;
+--font-size-l: 1.05rem;
+--font-size-xl: 1.25rem;
+--font-size-xxl: 1.45rem;
+--font-size-xxxl: 1.6rem;
+--font-size-title: var(--font-size-xxl);
+--font-size-subtitle: var(--font-size-l); */
+
+.font-size-xs {
+  font-size: var(--font-size-xs);
+}
+
+.font-size-s {
+  font-size: var(--font-size-s);
+}
+
+.font-size-m {
+  font-size: var(--font-size-m);
+}
+
+.font-size-ml {
+  font-size: var(--font-size-ml);
+}
+
+.font-size-l {
+  font-size: var(--font-size-l);
+}
+
+.font-size-xl {
+  font-size: var(--font-size-xl);
+}
+
+.font-size-xxl {
+  font-size: var(--font-size-xxl);
+}
+
+.font-size-xxxl {
+  font-size: var(--font-size-xxxl);
+}
+
+.font-size-title {
+  font-size: var(--font-size-title);
+}
+
+.font-size-subtitle {
+  font-size: var(--font-size-subtitle);
+}

@@ -1,0 +1,121 @@
+@layer utilities {
+
+  .flex-h, .flex.horizontal {
+
+    display: flex;
+    flex-direction: row;
+    &.reverse { flex-direction: row-reverse; }
+
+    &.x-center { justify-content: center; }
+    &.x-start { justify-content: flex-start; }
+    &.x-end { justify-content: flex-end; }
+    &.x-space-btw { justify-content: space-between; }
+    &.x-space-around { justify-content: space-around; }
+
+    &.y-center { align-items: center; }
+    &.y-start { align-items: flex-start; }
+    &.y-end { align-items: flex-end; }
+    &.y-space-btw { align-content: space-between; }
+    &.y-space-around { align-content: space-around; }
+
+    > .self-x-center { justify-self: center; }
+    > .self-x-start { justify-self: flex-start; }
+    > .self-x-end { justify-self: flex-end; }
+
+    > .self-y-center { align-self: center; }
+    > .self-y-start { align-self: flex-start; }
+    > .self-y-end { align-self: flex-end; }
+  }
+  .sm\:flex-h, .sm\:flex.horizontal, .md\:flex-h, .md\:flex.horizontal, .lg\:flex-h, .lg\:flex.horizontal, .xl\:flex-h, .xl\:flex.horizontal {
+    @apply flex-v;
+  }
+  .flex-v, .flex.vertical {
+
+    display: flex;
+    flex-direction: column;
+    &.reverse { flex-direction: column-reverse; }
+
+    &.x-center { align-items: center; }
+    &.x-start { align-items: flex-start; }
+    &.x-end { align-items: flex-end; }
+    &.x-space-btw { align-content: space-between; }
+    &.x-space-around { align-content: space-around; }
+
+    &.y-center { justify-content: center; }
+    &.y-start { justify-content: flex-start; }
+    &.y-end { justify-content: flex-end; }
+    &.y-space-btw { justify-content: space-between; }
+    &.y-space-around { justify-content: space-around; }
+
+    > .self-x-center { align-self: center; }
+    > .self-x-start { align-self: flex-start; }
+    > .self-x-end { align-self: flex-end; }
+
+    > .self-y-center { justify-self: center; }
+    > .self-y-start { justify-self: flex-start; }
+    > .self-y-end { justify-self: flex-end; }
+  }
+  .sm\:flex-v, .sm\:flex.vertical, .md\:flex-v, .md\:flex.vertical, .lg\:flex-v, .lg\:flex.vertical, .xl\:flex-v, .xl\:flex.vertical {
+    @apply flex-v;
+  }
+
+  .h-start { @extend .flex-h; @extend .x-start; @extend .y-center; }
+  .v-start { @extend .flex-v; @extend .x-center; @extend .y-center; }
+  .h-center { @extend .flex-h; @extend .x-start; @extend .y-center; }
+  .v-center { @extend .flex-v; @extend .x-center; @extend .y-center; }
+}
+
+.bordered {
+  border: var(--border-width) solid var(--border-color);
+  border-radius: var(--border-radius);
+}
+
+.backdrop-none { backdrop-filter: none !important; -webkit-backdrop-filter: none !important; }
+.backdrop-blur-light { backdrop-filter: blur(.2rem); -webkit-backdrop-filter: blur(.2rem); }
+.backdrop-blur-medium { backdrop-filter: blur(.66rem); -webkit-backdrop-filter: blur(.66rem); }
+.backdrop-blur-strong { backdrop-filter: blur(10rem); -webkit-backdrop-filter: blur(10rem); }
+
+.blur {
+  filter: blur(.33rem);
+  -webkit-filter: blur(.33rem);
+}
+
+.z-inherit { z-index: inherit; }
+
+.notched {
+  .inner {
+    transition: stroke 0.3s ease, filter 0.3s ease;
+  }
+  &:hover.activatable {
+    .inner {
+      > path {
+        filter: url(#neonGlowLight);
+        stroke: var(--primary);
+      }
+    }
+  }
+}
+
+.button {
+  &:hover {
+    .clipped {
+      background-color: var(--darker-blue);
+      color: var(--secondary);
+    }
+  }
+}
+
+.flip {
+  &.horizontal {
+    transform: scaleX(-1);
+    transform-origin: center center;
+  }
+  &.vertical {
+    transform: scaleY(-1);
+    transform-origin: center center;
+  }
+  &.both {
+    transform: scaleY(-1) scaleX(-1);
+    transform-origin: center center;
+  }
+}

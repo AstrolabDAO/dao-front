@@ -1,0 +1,26 @@
+.transition-container {
+}
+
+.view-change-enter-active {
+  transition: all 1.5s;
+}
+
+.view-change-leave-active {
+  transition: all .5s;
+}
+
+.view-change-enter-from {
+  opacity: 1;
+  transform: scale(0.1);
+}
+
+.view-change-enter-to, .view-change-leave-from {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.view-change-leave-to {
+  opacity: 0;
+  transform: scale(1.2); /* Assuming leaving component zooms through the camera */
+  overflow: hidden; /* Hide the leaving component */
+}

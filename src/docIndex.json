@@ -1,0 +1,710 @@
+{
+  "/docs/brand-assets": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/brand-assets.md"
+    }
+  },
+  "/docs/concepts/architecture": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/architecture.md"
+    }
+  },
+  "/docs/concepts/edges/automated": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/edges/automated.md"
+    }
+  },
+  "/docs/concepts/edges/composable": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/edges/composable.md"
+    }
+  },
+  "/docs/concepts/edges/efficient": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/edges/efficient.md"
+    }
+  },
+  "/docs/concepts/edges/failsafe": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/edges/failsafe.md"
+    }
+  },
+  "/docs/concepts/edges/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/edges/overview.md"
+    }
+  },
+  "/docs/concepts/edges/scalable": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/edges/scalable.md"
+    }
+  },
+  "/docs/concepts/features/accounting/accounted-assets": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/accounting/accounted-assets.md"
+    }
+  },
+  "/docs/concepts/features/accounting/async-withdrawal": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/accounting/async-withdrawal.md"
+    }
+  },
+  "/docs/concepts/features/accounting/insurance": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/accounting/insurance.md"
+    }
+  },
+  "/docs/concepts/features/accounting/liquidity": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/accounting/liquidity.md"
+    }
+  },
+  "/docs/concepts/features/accounting/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/accounting/overview.md"
+    }
+  },
+  "/docs/concepts/features/accounting/pnl": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/accounting/pnl.md"
+    }
+  },
+  "/docs/concepts/features/accounting/share-price": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/accounting/share-price.md"
+    }
+  },
+  "/docs/concepts/features/composability/flash-loans": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/composability/flash-loans.md"
+    }
+  },
+  "/docs/concepts/features/composability/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/composability/overview.md"
+    }
+  },
+  "/docs/concepts/features/diversification/allocation-model": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/diversification/allocation-model.md"
+    }
+  },
+  "/docs/concepts/features/diversification/flash-loans": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/diversification/flash-loans.md"
+    }
+  },
+  "/docs/concepts/features/diversification/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/diversification/overview.md"
+    }
+  },
+  "/docs/concepts/features/execution/automation": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/execution/automation.md"
+    }
+  },
+  "/docs/concepts/features/execution/batching": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/execution/batching.md"
+    }
+  },
+  "/docs/concepts/features/execution/gas": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/execution/gas.md"
+    }
+  },
+  "/docs/concepts/features/execution/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/execution/overview.md"
+    }
+  },
+  "/docs/concepts/features/execution/rates": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/execution/rates.md"
+    }
+  },
+  "/docs/concepts/features/execution/rpc": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/execution/rpc.md"
+    }
+  },
+  "/docs/concepts/features/meta-aggregation/liquidity": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/meta-aggregation/liquidity.md"
+    }
+  },
+  "/docs/concepts/features/meta-aggregation/messaging": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/meta-aggregation/messaging.md"
+    }
+  },
+  "/docs/concepts/features/meta-aggregation/yield": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/meta-aggregation/yield.md"
+    }
+  },
+  "/docs/concepts/features/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/features/overview.md"
+    }
+  },
+  "/docs/concepts/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/concepts/overview.md"
+    }
+  },
+  "/docs/developers/addresses": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/addresses.md"
+    }
+  },
+  "/docs/developers/api/examples": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/api/examples.md"
+    }
+  },
+  "/docs/developers/api/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/api/overview.md"
+    }
+  },
+  "/docs/developers/erc4626": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/erc4626.md"
+    }
+  },
+  "/docs/developers/integration/deposit": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/integration/deposit.md"
+    }
+  },
+  "/docs/developers/integration/flash-borrowing": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/integration/flash-borrowing.md"
+    }
+  },
+  "/docs/developers/integration/withdrawal": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/integration/withdrawal.md"
+    }
+  },
+  "/docs/developers/radyal-widget/examples": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/radyal-widget/examples.md"
+    }
+  },
+  "/docs/developers/radyal-widget/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/radyal-widget/overview.md"
+    }
+  },
+  "/docs/developers/strategy/checklist": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/strategy/checklist.md"
+    }
+  },
+  "/docs/developers/strategy/extending": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/strategy/extending.md"
+    }
+  },
+  "/docs/developers/strategy/pr": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/strategy/pr.md"
+    }
+  },
+  "/docs/developers/strategy/testing": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/strategy/testing.md"
+    }
+  },
+  "/docs/developers/strategy/why": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/strategy/why.md"
+    }
+  },
+  "/docs/developers/swapper-sdk/examples": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/swapper-sdk/examples.md"
+    }
+  },
+  "/docs/developers/swapper-sdk/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/developers/swapper-sdk/overview.md"
+    }
+  },
+  "/docs/faq": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/faq.md"
+    }
+  },
+  "/docs/glossary": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/glossary.md"
+    }
+  },
+  "/docs/governance/asl/buyback": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/asl/buyback.md"
+    }
+  },
+  "/docs/governance/asl/distribution/ifo": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/asl/distribution/ifo.md"
+    }
+  },
+  "/docs/governance/asl/distribution/incentives": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/asl/distribution/incentives.md"
+    }
+  },
+  "/docs/governance/asl/distribution/lbp": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/asl/distribution/lbp.md"
+    }
+  },
+  "/docs/governance/asl/distribution/raises": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/asl/distribution/raises.md"
+    }
+  },
+  "/docs/governance/asl/distribution/vesting": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/asl/distribution/vesting.md"
+    }
+  },
+  "/docs/governance/asl/staking": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/asl/staking.md"
+    }
+  },
+  "/docs/governance/asl/utility": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/asl/utility.md"
+    }
+  },
+  "/docs/governance/dao/council": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/dao/council.md"
+    }
+  },
+  "/docs/governance/dao/onboarding": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/dao/onboarding.md"
+    }
+  },
+  "/docs/governance/dao/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/dao/overview.md"
+    }
+  },
+  "/docs/governance/dao/roles": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/dao/roles.md"
+    }
+  },
+  "/docs/governance/voting": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/governance/voting.md"
+    }
+  },
+  "/docs/index": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/index.md"
+    }
+  },
+  "/docs/legal/privacy-policy": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/legal/privacy-policy.md"
+    }
+  },
+  "/docs/legal/risk-disclaimer": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/legal/risk-disclaimer.md"
+    }
+  },
+  "/docs/legal/tos": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/legal/tos.md"
+    }
+  },
+  "/docs/products/botnet/architecture": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/botnet/architecture.md"
+    }
+  },
+  "/docs/products/botnet/model": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/botnet/model.md"
+    }
+  },
+  "/docs/products/botnet/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/botnet/overview.md"
+    }
+  },
+  "/docs/products/botnet/use-cases": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/botnet/use-cases.md"
+    }
+  },
+  "/docs/products/cm3/architecture": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/cm3/architecture.md"
+    }
+  },
+  "/docs/products/cm3/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/cm3/overview.md"
+    }
+  },
+  "/docs/products/cm3/trust": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/cm3/trust.md"
+    }
+  },
+  "/docs/products/cm3/use-cases": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/cm3/use-cases.md"
+    }
+  },
+  "/docs/products/radyal/guides/deposit": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/radyal/guides/deposit.md"
+    }
+  },
+  "/docs/products/radyal/guides/pnl": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/radyal/guides/pnl.md"
+    }
+  },
+  "/docs/products/radyal/guides/staking": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/radyal/guides/staking.md"
+    }
+  },
+  "/docs/products/radyal/guides/tx": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/radyal/guides/tx.md"
+    }
+  },
+  "/docs/products/radyal/guides/withdraw": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/radyal/guides/withdraw.md"
+    }
+  },
+  "/docs/products/radyal/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/radyal/overview.md"
+    }
+  },
+  "/docs/products/radyal/use-cases": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/radyal/use-cases.md"
+    }
+  },
+  "/docs/products/swapper/architecture": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/swapper/architecture.md"
+    }
+  },
+  "/docs/products/swapper/model": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/swapper/model.md"
+    }
+  },
+  "/docs/products/swapper/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/swapper/overview.md"
+    }
+  },
+  "/docs/products/swapper/use-cases": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/swapper/use-cases.md"
+    }
+  },
+  "/docs/products/vaults/asBTC": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/vaults/asBTC.md"
+    }
+  },
+  "/docs/products/vaults/asETH": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/vaults/asETH.md"
+    }
+  },
+  "/docs/products/vaults/asUSD": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/vaults/asUSD.md"
+    }
+  },
+  "/docs/products/vaults/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/vaults/overview.md"
+    }
+  },
+  "/docs/products/vaults/strategies": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/products/vaults/strategies.md"
+    }
+  },
+  "/docs/security/codebase/bounties": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/codebase/bounties.md"
+    }
+  },
+  "/docs/security/codebase/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/codebase/overview.md"
+    }
+  },
+  "/docs/security/codebase/practices": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/codebase/practices.md"
+    }
+  },
+  "/docs/security/codebase/v1-audits/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/codebase/v1-audits/overview.md"
+    }
+  },
+  "/docs/security/integration/asset-scoring": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/integration/asset-scoring.md"
+    }
+  },
+  "/docs/security/integration/chain-scoring": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/integration/chain-scoring.md"
+    }
+  },
+  "/docs/security/integration/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/integration/overview.md"
+    }
+  },
+  "/docs/security/integration/protocol-scoring": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/integration/protocol-scoring.md"
+    }
+  },
+  "/docs/security/integration/strategy-scoring": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/integration/strategy-scoring.md"
+    }
+  },
+  "/docs/security/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/overview.md"
+    }
+  },
+  "/docs/security/runtime/emergency": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/runtime/emergency.md"
+    }
+  },
+  "/docs/security/runtime/insurance": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/runtime/insurance.md"
+    }
+  },
+  "/docs/security/runtime/mutability": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/runtime/mutability.md"
+    }
+  },
+  "/docs/security/runtime/oracles": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/runtime/oracles.md"
+    }
+  },
+  "/docs/security/runtime/overview": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/runtime/overview.md"
+    }
+  },
+  "/docs/security/runtime/oz-defender": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/runtime/oz-defender.md"
+    }
+  },
+  "/docs/security/runtime/rpcs": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/runtime/rpcs.md"
+    }
+  },
+  "/docs/security/runtime/spherex": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/security/runtime/spherex.md"
+    }
+  },
+  "/docs/tokenomics/IFO": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/tokenomics/IFO.md"
+    }
+  },
+  "/docs/tokenomics/asl": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/tokenomics/asl.md"
+    }
+  },
+  "/docs/tokenomics/fees": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/tokenomics/fees.md"
+    }
+  },
+  "/docs/tokenomics/flywheel": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/tokenomics/flywheel.md"
+    }
+  },
+  "/docs/tokenomics/governance": {
+    "title": "Md",
+    "props": {
+      "file": "mds/docs/tokenomics/governance.md"
+    }
+  },
+  "/legal/acknowledgement": {
+    "title": "Md",
+    "props": {
+      "file": "mds/legal/acknowledgement.md"
+    }
+  },
+  "/legal/cookie-policy": {
+    "title": "Md",
+    "props": {
+      "file": "mds/legal/cookie-policy.md"
+    }
+  },
+  "/legal/privacy-policy": {
+    "title": "Md",
+    "props": {
+      "file": "mds/legal/privacy-policy.md"
+    }
+  },
+  "/legal/risk-disclaimer": {
+    "title": "Md",
+    "props": {
+      "file": "mds/legal/risk-disclaimer.md"
+    }
+  },
+  "/legal/tos": {
+    "title": "Md",
+    "props": {
+      "file": "mds/legal/tos.md"
+    }
+  }
+}
